@@ -58,7 +58,7 @@ dt.predict([[.5,.8,9,260,6,0,1,2]])
 ### Data Head:
 ![output5](d(head).png)
 ### x.head():
-![output6](x(head).png)
+![output6](X(HEad).png)
 ### Accuracy:
 
 ![output7](ACCU.png)
