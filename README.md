@@ -64,7 +64,7 @@ dt.predict([[.5,.8,9,260,6,0,1,2]])
 ![output7](ACCU.png)
 ### Data Prediction:
 
-![output8](PREDICT.pngpng)
+![output8](PREDICT.png)
 
 
 
